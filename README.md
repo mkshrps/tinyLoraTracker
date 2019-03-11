@@ -31,7 +31,7 @@ ascii message data is:
 *        Altitude:   10
 
         Acknowledgements:
-        Dave Ackerman - Flextrack project https://github.com/daveake
+        Dave Akerman - Flextrack project https://github.com/daveake
         https://github.com/codegardenllc/tiny_gps_plus
 
 
